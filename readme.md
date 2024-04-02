@@ -1,6 +1,8 @@
 Some of the scripts I wrote for the VR app I made for our capstone project.
 Developed using Unity for the Quest 2 using the Meta Quest SDK and Interaction SDK.
 
+Demo Video: https://youtu.be/eFer3gFJSiI
+
 Music used in the game:
 https://freemusicarchive.org/music/zight/single/daisy-edm-instrumental
 Bowling Alley model:
